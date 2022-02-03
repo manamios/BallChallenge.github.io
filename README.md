@@ -2,7 +2,7 @@
 
 ## Discription
 
-This is an excersize MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN week2 
+This is an excursize MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN week2 
 
 Using HTML, JavaScript
 
